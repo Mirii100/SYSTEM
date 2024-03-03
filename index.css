@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(40, 40, 215);
+    color: aqua;
+    opacity: .9;
+}
+button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+}
+input{
+    align-items: center;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+#email{
+    text-align: center;
+    padding: auto;margin-left: 40px;
+}
+a{
+background-color: chartreuse;
+color: brown;text-align: center;margin-left: 15px;
+text-decoration-line: none;
+}
+nav{
+    text-align: center;margin-left: 15px;
+}
